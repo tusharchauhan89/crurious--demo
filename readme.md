@@ -1,0 +1,3 @@
+# curious to know
+THIS IS MY FIRST GIT REPOSITORY
+AUTHOR-TUSHAR 
